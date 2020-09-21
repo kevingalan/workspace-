@@ -29,7 +29,7 @@ try:
             6-Porcentaje
             7-Raiz Cuadrada
             8-Factorial""")
-        opcion=int(input("Opcion : "))
+        opcion=float(input("Opcion : "))
 
         if opcion <1 or opcion >8:
             print("\nDebes elegir una de las opciones anteriores!")            
