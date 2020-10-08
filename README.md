@@ -12,7 +12,7 @@ Workspace unicamente de Sistemas Expertos
   - __pycache__
   - main.py
   - operaciones.py
-4. asignacion_2: Se encuetra ejercicio de Ventas de libros.                                                                                                                          
+4. asignacion_2: Se encuetra ejercicio de Ventas de libros.                                                                                                                           -- ventaslibros.ipynb
 5. asignacion_3: Se encuetra ejercicio de Costo de Lista de Regalos.                                                                                                                
 6. data_asignacion1-2: Se encunetra la data necesaria para ejecutar la asignacion 1 y 2.                                                                                                                                                                                                                                                                                                             
 Creado por: Kevin Efrain Quinteros Galan
