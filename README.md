@@ -1,7 +1,8 @@
 # workspace
 
-Workspace unicamente de Sistemas Expertos, 
-dentro del repositorio se encuentran cuatro carpetas:
+Workspace unicamente de Sistemas Expertos
+
+##Contenido
 
 asignacion_1: Se encuetra ejercicio de Calculadora.                                                                                                                                 
 asignacion_2: Se encuetra ejercicio de Ventas de libros.                                                                                                                           
