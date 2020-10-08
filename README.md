@@ -8,7 +8,8 @@ Workspace unicamente de Sistemas Expertos
   - ventaslibros.ipynb
 2. Parcial2
   -lab2_2017010981.ipynb
-3. asignacion_1: Se encuetra ejercicio de Calculadora.                                                                                                                           -   -__pycache__
+3. asignacion_1: Se encuetra ejercicio de Calculadora.
+  -__pycache__
   -main.py
   -operaciones.py
 4. asignacion_2: Se encuetra ejercicio de Ventas de libros.                                                                                                                          
