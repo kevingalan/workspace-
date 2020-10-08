@@ -6,19 +6,19 @@ Workspace unicamente de Sistemas Expertos
 
 ## Contenido
 
-1. Parcial 2
-  - parcial2_2017010981.ipynb
-2. asignacion_1
+1. asignacion_1
   - __pycache__
   - main.py
   - operaciones.py
-3. asignacion_2
+2. asignacion_2
   - ventaslibros.ipynb
-4. asignacion_3
+3. asignacion_3
   - costo_total_regalos.ipynb
-5. data_asignacion1-2
+4. data_asignacion1-2
   - catalogo_libros.txt
   - costos.txt
   - libros_24_meses.txt
+5. Parcial 2
+  - parcial2_2017010981.ipynb
   
 Creado por: Kevin Efrain Quinteros Galan
