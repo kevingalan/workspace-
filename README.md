@@ -4,6 +4,7 @@ Workspace unicamente de Sistemas Expertos
 
 **Importante:** Para una correcta ejecucion se debe contar con la instalacion previa de las diferentes librerias tales como Numpy,Panda y Keras segun corresponda, de igual manera debe contar con Python 3.6 
 
+[Link de video de resulucion Parcial 02](https://youtu.be/k9jpaqK6Tgk)
 ## Contenido
 
 1. Evaluacion_SA_B_E2
