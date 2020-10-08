@@ -17,5 +17,8 @@ Workspace unicamente de Sistemas Expertos
 5. asignacion_3: Se encuetra ejercicio de Costo de Lista de Regalos
   - costo_total_regalos.ipynb
 6. data_asignacion1-2: Se encunetra la data necesaria para ejecutar la asignacion 1 y 2
-  -catalogo_libros.txt
+  - catalogo_libros.txt
+  - costos.txt
+  - libros_24_meses.txt
+  
 Creado por: Kevin Efrain Quinteros Galan
