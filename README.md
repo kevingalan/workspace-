@@ -5,7 +5,7 @@ Workspace unicamente de Sistemas Expertos
 ## Contenido
 
 1. Evaluacion_SA_B_E2
-
+- ventaslibros.ipynb
 2. Parcial2
 
 3. asignacion_1: Se encuetra ejercicio de Calculadora.                                                                                                                              
