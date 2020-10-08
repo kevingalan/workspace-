@@ -2,7 +2,7 @@
 
 Workspace unicamente de Sistemas Expertos
 
-##Contenido
+## Contenido
 
 asignacion_1: Se encuetra ejercicio de Calculadora.                                                                                                                                 
 asignacion_2: Se encuetra ejercicio de Ventas de libros.                                                                                                                           
