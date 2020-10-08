@@ -8,15 +8,15 @@ Workspace unicamente de Sistemas Expertos
 
 1. Parcial 2
   - parcial2_2017010981.ipynb
-2. asignacion_1: Se encuetra ejercicio de Calculadora
+2. asignacion_1
   - __pycache__
   - main.py
   - operaciones.py
-3. asignacion_2: Se encuetra ejercicio de Ventas de libros
+3. asignacion_2
   - ventaslibros.ipynb
-4. asignacion_3: Se encuetra ejercicio de Costo de Lista de Regalos
+4. asignacion_3
   - costo_total_regalos.ipynb
-5. data_asignacion1-2: Se encunetra la data necesaria para ejecutar la asignacion 1 y 2
+5. data_asignacion1-2
   - catalogo_libros.txt
   - costos.txt
   - libros_24_meses.txt
